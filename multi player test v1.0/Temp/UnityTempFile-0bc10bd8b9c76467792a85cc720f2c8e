@@ -139,6 +139,9 @@
 -define:ENABLE_WEBSOCKET_HOST
 -define:ENABLE_MONO
 -define:NET_2_0_SUBSET
+'Assets/Billboard.cs'
+'Assets/Bullet.cs'
+'Assets/Health.cs'
 'Assets/PlayerController.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Xml.Linq.dll'
